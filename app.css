@@ -59,7 +59,7 @@ header{
 }
 
 .navbar-menu.active{
-  top:60px;
+  top:50px;
   transition:all 500ms ease;
 }
 
@@ -99,7 +99,7 @@ header{
 }
 
 .navbar-search-container.active{
-  top:60px;
+  top:50px;
   transition:all 400ms ease-in-out;
 }
 
